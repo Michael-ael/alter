@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /admin-preview/*
+User-agent: *
+Allow: /
+User-agent: *
+Crawl-delay: 5
+Sitemap:https://grey.co/sitemap.xml
+
+Sitemap: https://grey.co/sitemap.xml
